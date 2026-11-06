@@ -1,0 +1,16 @@
+APP DE DESPESAS PESSOAIS — CÓPIA INDEPENDENTE
+
+Esta versão usa identidade visual verde e mantém a estrutura PWA da versão conjunta.
+A app azul fica reservada para as despesas partilhadas.
+
+Antes de registar despesas, configura em app.js o URL do Apps Script ligado à folha pessoal.
+O URL está vazio para impedir que esta cópia envie dados para a folha conjunta.
+
+Para instalar/publicar:
+1. Extrai o ZIP.
+2. Copia o conteúdo desta pasta para a raiz do repositório GitHub Pages próprio desta app.
+3. Confirma que a folha Google Sheets e o Apps Script são os exclusivos da versão pessoal.
+4. Publica no GitHub Pages e abre o site por HTTPS.
+5. No telemóvel, adiciona o site ao ecrã principal/instala a aplicação.
+
+As categorias atuais foram mantidas como ponto de partida e podem ser alteradas sem afetar a versão conjunta.
